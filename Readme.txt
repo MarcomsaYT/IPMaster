@@ -7,5 +7,5 @@ Requirements:
 - Library "Requests"
 - Pip
 - Nmap 7.95
-The requirements has 5 executables, execute them for installing the requirements
+The requirements has 1 executable, execute it for installing the requirements excluding nmap (Install by your own)
 Enjoy this tool created by Marcomsa_YT only for educational purposes
